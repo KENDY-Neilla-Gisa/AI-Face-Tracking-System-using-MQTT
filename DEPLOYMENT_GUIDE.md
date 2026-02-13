@@ -116,7 +116,7 @@ MQTT_BROKER_IP = "127.0.0.1"  # Localhost for single PC setup
 MQTT_BROKER_PORT = 1883
 
 # Team Identification
-TEAM_ID = "elvin01"  # Change to your team ID
+TEAM_ID = "team01"  # Change to your team ID
 
 # Camera Settings
 CAMERA_INDEX = 0  # Change if you have multiple cameras
@@ -138,7 +138,7 @@ MQTT_BROKER = "192.168.1.100"  # Change to your PC's IP
 MQTT_PORT = 1883
 
 # Team ID
-TEAM_ID = "elvin01"  # Must match PC configuration
+TEAM_ID = "team01"  # Must match PC configuration
 
 # Servo Settings
 SERVO_PIN = 14  # GPIO14 (D5 on NodeMCU)

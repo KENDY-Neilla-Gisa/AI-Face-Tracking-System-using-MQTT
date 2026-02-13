@@ -244,8 +244,8 @@ class TrackingEvent:
 ws://localhost:9002
 
 # MQTT Topics
-vision/elvin01/movement
-vision/elvin01/heartbeat
+vision/team01/movement
+vision/team01/heartbeat
 
 # HTTP Endpoints (future)
 GET /api/status

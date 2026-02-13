@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 class MQTTToWebSocketBridge:
     """Enhanced MQTT to WebSocket bridge with analytics"""
     
-    def __init__(self, broker_host="127.0.0.1", broker_port=1883, team_id="elvin01"):
+    def __init__(self, broker_host="127.0.0.1", broker_port=1883, team_id="team01"):
         self.broker_host = broker_host
         self.broker_port = broker_port
         self.team_id = team_id

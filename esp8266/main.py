@@ -2,7 +2,7 @@
 """
 main.py — ESP8266 Face-Tracking Servo Controller (MicroPython)
 
-Subscribes to MQTT topic  vision/elvin01/movement  and drives a
+Subscribes to MQTT topic  vision/team01/movement  and drives a
 servo motor based on face movement commands:
 
     MOVE_LEFT   → decrement servo angle (pan left)
